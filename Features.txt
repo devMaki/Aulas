@@ -1,0 +1,10 @@
+//Features do software\\
+
+Ao iniciar ele exibe data/hora atual e perguntará o nome de quem o está utilizando.
+Em seguida será exibido um texto apresentando o nome que foi requisitado.
+Pede-se as 4 notas que o aluno deseja calcular e faz o calculo.
+Caso a nota for [<] menor que 6 mostrará a média e a situação, nesse caso reprovado.
+Caso a nota for [>=] maior ou igual que 6 mostrará a média e a situação, nesse caso aprovado.
+Por fim ele pergunta se deseja repetir o calculo.
+Caso 1 [SIM] = Aguarda 3 segundos, limpa o console e reinicia o software.
+Caso 2 [NÃO] = Aguarda 3 segundos e fecha.
